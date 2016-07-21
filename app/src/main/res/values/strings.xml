@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InterviewTasks</string>
+    <string name="palindrom">Is Palindrom</string>
+    <string name="longest_palindrom">Longest Palindrom</string>
+    <string name="anagram">Anagram Strings</string>
+    <string name="permutations">Permutations</string>
+    <string name="minimum_drops">Minimum Drops</string>
+</resources>
